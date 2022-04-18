@@ -22,8 +22,6 @@ function godzilaVsKong (input){
 
 }
 
-godzilaVsKong(["20000",
-"120",
-"55.5"])
+
 
 
