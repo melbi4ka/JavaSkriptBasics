@@ -19,4 +19,3 @@ function bonusScore (input) {
     console.log(bonus+points);
 }
 
-bonusScore(["15875"])
