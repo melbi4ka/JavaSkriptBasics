@@ -41,12 +41,3 @@ function operationBetweenNumbers (input) {
         console.log(`${numberOne} % ${numberTwo} = ${result}`)
     }
 }
-operationBetweenNumbers(["7",
-"3",
-"*"])
-
-
-
-
-
-
