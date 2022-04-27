@@ -40,6 +40,3 @@ function summerOutfit (input) {
     }
     console.log(`It's ${degrees} degrees, get your ${outfit} and ${shoes}.`)
 }
-summerOutfit(["22",
-"Afternoon"])
-
