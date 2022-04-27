@@ -1,6 +1,6 @@
 function newHouse (input){
     let typeFlowers = input[0];
-    let numberFlowers = input[1];
+    let numberFlowers = Number(input[1]);
     let budget = input[2];
     
     let totalSum = 0;
