@@ -13,9 +13,4 @@ function swimmingRecord(input){
     }else {
         console.log(`Yes, he succeeded! The new world record is ${totalTime.toFixed(2)} seconds.`);
     }
-
 }
-swimmingRecord(["55555.67",
-"3017",
-"5.03"])
-
