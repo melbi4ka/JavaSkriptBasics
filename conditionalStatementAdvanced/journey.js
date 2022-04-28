@@ -35,4 +35,3 @@ function journey (input){
     console.log(`Somewhere in ${destination}`)
     console.log(`${typeVacation} - ${budget.toFixed(2)}`)
 }
-journey(["1500", "summer"])
