@@ -13,9 +13,3 @@ function cinema (input) {
     }
     console.log(`${income.toFixed(2)} leva`)
 }
-cinema(["Discount",
-"12",
-"30"])
-
-
-
