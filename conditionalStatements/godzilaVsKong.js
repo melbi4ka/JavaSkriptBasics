@@ -18,6 +18,4 @@ function godzilaVsKong (input){
         console.log("Action!")
         console.log(`Wingard starts filming with ${diff.toFixed(2)} leva left.`);
     }
-    
-
 }
