@@ -35,11 +35,3 @@ function fishingBoat (input) {
         console.log(`Not enough money! You need ${diff.toFixed(2)} leva.`)
     }
 }
-fishingBoat(["3600",
-"Autumn",
-"6"])
-
-
-
-
-
