@@ -14,8 +14,3 @@ function lunchBreak (input){
         console.log(`You don't have enough time to watch ${serialName}, you need ${Math.ceil(diff)} more minutes.`)
     }
 }
-
-lunchBreak(["Teen Wolf",
-"48",
-"60"])
-
