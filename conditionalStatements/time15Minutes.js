@@ -14,7 +14,4 @@ function timeMinutes (input) {
     } else {
         console.log(`${finalHours}:0${finalMinutes}`);
     }
-
 }
-
-timeMinutes(["12", "49"])
