@@ -13,12 +13,5 @@ function sumSeconds (input) {
 
     } else {
         console.log(`${allSwimmerMinutes}:0${allSwimmerTotalSeconds}`);
-
-    }
-   
+    }   
 } 
-
-sumSeconds(["50",
-"50",
-"49"])
-
