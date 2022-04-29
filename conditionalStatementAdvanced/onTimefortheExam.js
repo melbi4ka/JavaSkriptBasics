@@ -43,13 +43,3 @@ function onTime (input){
         }
     }
 }
-onTime(["11",
-"30",
-"10",
-"55"])
-
-
-
-
-
-
