@@ -39,5 +39,3 @@ function hotelRoom (input) {
     console.log(`Apartment: ${totalCostsPerApartment.toFixed(2)} lv.`)
     console.log(`Studio: ${totalCostsPerStudio.toFixed(2)} lv.`)
 }
-hotelRoom(["August",
-"20"])
