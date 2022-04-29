@@ -35,8 +35,3 @@ function skiTrip (input){
     let totalPrice = price * daysTrip
     console.log(totalPrice.toFixed(2))
 }
-skiTrip(["2",
-"apartment",
-"positive"])
-
-
