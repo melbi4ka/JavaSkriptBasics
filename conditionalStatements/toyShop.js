@@ -19,14 +19,4 @@ function toyShop (input) {
     } else {
         console.log(`Not enough money! ${diff.toFixed(2)} lv needed.`)
     }
-    
-
 }
-
-toyShop(["320",
-"8",
-"2",
-"5",
-"5",
-"1"])
-
