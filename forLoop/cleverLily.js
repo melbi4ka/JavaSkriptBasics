@@ -25,7 +25,3 @@ function cleverLily (input){
         console.log(`No! ${diff.toFixed(2)}`)
     }
 }
-cleverLily(["21",
-"1570.98",
-"3"])
-
