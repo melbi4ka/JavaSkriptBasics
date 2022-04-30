@@ -35,10 +35,3 @@ function histogram (input){
     console.log(`${res4.toFixed(2)}%`)
     console.log(`${res5.toFixed(2)}%`)
 }
-histogram(["3",
-"1",
-"2",
-"999"])
-
-
-
