@@ -8,4 +8,3 @@ function multiplicationTable (input){
         console.log(i+" * "+n+" = "+res);
     }
 }
-multiplicationTable(["5"])
