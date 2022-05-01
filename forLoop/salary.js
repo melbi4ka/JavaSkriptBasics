@@ -24,8 +24,3 @@ function salary (input){
         console.log(salary)
     }  
 }
-salary(["3",
-"500",
-"Github.com",
-"Stackoverflow.com",
-"softuni.bg"])
