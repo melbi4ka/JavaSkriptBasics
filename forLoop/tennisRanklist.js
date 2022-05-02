@@ -32,15 +32,3 @@ function tennisRanklist(input){
     console.log(`Average points: ${averagePerTournament}`)
     console.log(`${winPercent.toFixed(2)}%`)
 }
-tennisRanklist(["7",
-"1200",
-"SF",
-"F",
-"W",
-"F",
-"W",
-"SF",
-"W"])
-
-
-
