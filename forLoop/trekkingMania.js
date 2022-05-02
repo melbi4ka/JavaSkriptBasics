@@ -36,15 +36,3 @@ function trekkingMania (input){
     console.log(percentK2.toFixed(2) + "%")
     console.log(percentEverest.toFixed(2) + "%")
 }
-trekkingMania(["10",
-"10",
-"5",
-"1",
-"100",
-"12",
-"26",
-"17",
-"37",
-"40",
-"78"])
-
