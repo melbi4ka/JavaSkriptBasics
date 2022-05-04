@@ -36,15 +36,3 @@ function vacation (input){
         console.log(`You saved the money for ${days} days.`)
     }
 }
-vacation(["250",
-"150",
-"spend",
-"50",
-"spend",
-"50",
-"save",
-"100",
-"save",
-"100"])
-
-
