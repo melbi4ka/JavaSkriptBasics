@@ -40,11 +40,3 @@ function examPreparation (input) {
             break; 
     }
 }
-examPreparation(["2",
-"Income",
-"3",
-"Game Info",
-"6",
-"Best Player",
-"4"])
-
