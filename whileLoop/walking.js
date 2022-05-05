@@ -34,12 +34,3 @@ function walking (input){
             break;
     }
 }
-walking(["125",
-"250",
-"4000",
-"30",
-"2678",
-"4682"])
-
-
-
