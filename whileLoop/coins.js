@@ -25,4 +25,3 @@ function coins (input){
     }
     console.log(coinsCounter);
 }
-coins(["2.73"])
