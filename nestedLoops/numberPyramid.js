@@ -20,4 +20,3 @@ function numberPyramid (input) {
         }
     }
 }
-numberPyramid(["15"])
