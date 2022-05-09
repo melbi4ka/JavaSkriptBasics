@@ -24,6 +24,3 @@ function equalSum (input){
     }
     console.log(finalNums)
 }
-equalSum(["299900",
-"300000"])
-
