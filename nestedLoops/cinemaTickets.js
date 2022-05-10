@@ -31,7 +31,6 @@ function cinemaTickets (input){
             if (freeSeats === 0){
                 break;
             }
-            //freeSeats--;
             currentCommand = input[index];
             index++; 
         }
@@ -45,30 +44,3 @@ function cinemaTickets (input){
     console.log(`${((standartTicketCounter/totalTicketCounter)*100).toFixed(2)}% standard tickets.`)
     console.log(`${((kidsTicketCounter/totalTicketCounter)*100).toFixed(2)}% kids tickets.`)
 }
-
-cinemaTickets(["The Matrix",
-"20",
-"student",
-"standard",
-"kid",
-"kid",
-"student",
-"student",
-"standard",
-"student",
-"End",
-"The Green Mile",
-"17",
-"student",
-"standard",
-"standard",
-"student",
-"standard",
-"student",
-"End",
-"Amadeus",
-"3",
-"standard",
-"standard",
-"standard",
-"Finish"])
