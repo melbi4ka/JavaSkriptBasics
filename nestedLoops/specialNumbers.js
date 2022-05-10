@@ -15,4 +15,3 @@ function specialNumber (input){
     }
     console.log(printSpecials)
 }
-specialNumber(["3"])
